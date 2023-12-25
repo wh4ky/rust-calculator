@@ -2,8 +2,12 @@
 
 ## Main features
 - [ ] multiple inputs
-- [ ] algebra
+- [ ] algebra lines
 
 ## Extra features
-- [ ] automatic degree / radian calculating
+- [ ] degree / radian calculating
+- [ ] domain and reach calculating
+- [ ] 
 - [ ] sin, cos and tan
+- [ ] algebra functions
+
