@@ -20,7 +20,6 @@ fn main() {
     }
 }
 
-// function to print coordinates of a point
 fn add_point() {
     let mut value: String = String::new().to_string();
 
@@ -34,5 +33,5 @@ fn add_point() {
     io::stdin().read_line(&mut value).expect("error");
     let value_y = to_int(value);
 
-    println!("The point is at the coordinates ({}; {})", value_x, value_y);
+    println!("The point is at the coordinates ({} ; {})", value_x, value_y);
 }
