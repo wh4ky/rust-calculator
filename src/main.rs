@@ -14,5 +14,5 @@ fn main() {
 
     let sum: u32 = value_1 + value_2;
 
-    println!("The sum is = {} + {} = {}", value_1, value_2, sum);
+    println!("The sum of {} + {} is {}", value_1, value_2, sum);
 }
